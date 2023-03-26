@@ -430,3 +430,4 @@ Before you move on, make sure you can answer the following questions:
 [bcrypt]: https://github.com/bcrypt-ruby/bcrypt-ruby
 [validates_confirmation_of]:
   https://apidock.com/rails/ActiveModel/Validations/HelperMethods/validates_confirmation_of
+  GREATSTUFF
